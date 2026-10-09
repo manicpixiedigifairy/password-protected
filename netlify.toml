@@ -1,0 +1,9 @@
+# The case study folder is the whole site, so the Netlify URL opens straight on the page.
+[build]
+  publish = "password-protected"
+  command = ""
+
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=604800"
