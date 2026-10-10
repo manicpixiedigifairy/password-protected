@@ -7,7 +7,7 @@ Hosted case study page for the Password Protected spec concept (Victoria's Secre
 | What | Where |
 | --- | --- |
 | The page | `password-protected/index.html`, with its images in `password-protected/assets/` |
-| Netlify site | https://password-protected-case-study.netlify.app |
+| Netlify site | https://victoriassecretjournal.netlify.app |
 | Loader block | `loader/password-protected.html` |
 
 ## How it works
